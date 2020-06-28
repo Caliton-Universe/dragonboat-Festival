@@ -1,10 +1,6 @@
 # Dragon Boat Festival 端午节
 School Project about Dragon Boat
 
-![](/Users/DavidLiang/Desktop/Programmes/GitHub Doc Unreleased/010eba576c8ef50000012e7e41a611.jpg@1280w_1l_2o_100sh.jpg)
-
-[TOC]
-
 ------
 
 ### A Brief Introduction 前言
@@ -21,8 +17,6 @@ The Dragon Boat Festival was originally created by the ancestors of Wu and Yue i
 
 端午节，本是南方吴越先民创立用于拜祭龙祖的节日。因传说战国时期的楚国诗人屈原在五月五日跳汨罗江自尽，后来人们亦将端午节作为纪念屈原的节日；也有纪念伍子胥、曹娥及介子推等说法。
 
-![timg (1)](/Users/DavidLiang/Desktop/Programmes/GitHub Doc Unreleased/timg (1).jpeg)
-
 （[Source 链接]([https://baike.baidu.com/item/%E7%AB%AF%E5%8D%88%E8%8A%82/1054?fr=aladdin](https://baike.baidu.com/item/端午节/1054?fr=aladdin))）
 
 ### Culture 习俗
@@ -36,8 +30,6 @@ Dragon boat rowing is an important activity of Dragon Boat Festival. It is a fes
 （[Source 链接]([https://baike.baidu.com/item/%E7%AB%AF%E5%8D%88%E8%8A%82/1054?fr=aladdin](https://baike.baidu.com/item/端午节/1054?fr=aladdin))）
 
 ##### Eating zongzi 吃粽子
-
-![1_150618145524_1](/Users/DavidLiang/Desktop/Programmes/GitHub Doc Unreleased/1_150618145524_1.jpg)
 
 The Dragon Boat Festival eating zongzi is a traditional custom of the Chinese nation since ancient times. It is a tribute used to worship gods and ancestors during the Spring Festival. The main materials of zongzi are rice, stuffing, Ruo leaves (or new leaves), etc., with various patterns. The custom of eating zongzi at Dragon Boat Festival, which has been popular in China for thousands of years, has become one of the most influential and widespread folk eating customs of the Chinese nation.
 
@@ -57,14 +49,12 @@ Dragon Boat Festival in the ancient northern people's mind is poison day, evil d
 
 In traditional Chinese culture, the five colors "green, red, white, black and yellow", which symbolize five directions and five elements, are regarded as auspicious colors. The Dragon Boat Festival was once a very popular festival custom with five colored silk threads tied to the arms. Later generations, it developed into many kinds of beautiful ornaments, such as long life thread, long life lock, sachet and so on. Its production is becoming more and more exquisite, becoming a unique folk art of Dragon Boat Festival.
 
-![](/Users/DavidLiang/Desktop/Programmes/GitHub Doc Unreleased/timg (2).jpeg)
-
 中国传统文化中，象征五方五行的五种颜色"青、红、白、黑、黄"被视为吉祥色。端午以五色丝线系臂，曾是很流行的节俗。传到后世，即发展成如长命缕、长命锁、香包等许多种漂亮饰物，制作也日趋精致，成为端午节特有的民间艺品。
 
 （[Source 链接]([https://baike.baidu.com/item/%E7%AB%AF%E5%8D%88%E8%8A%82/1054?fr=aladdin](https://baike.baidu.com/item/端午节/1054?fr=aladdin))）
 
+------
+
 ### About the Author
 
 David Liang is currenly a science mentor at Wuxi Nanwai King's College School.
-
-![](/Users/DavidLiang/Desktop/Programmes/GitHub Doc Unreleased/Selfie.jpeg)
